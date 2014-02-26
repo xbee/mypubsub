@@ -1,0 +1,7 @@
+*.o
+*.pyc
+received
+singleinst
+notisend
+*.py~
+*.dblite
